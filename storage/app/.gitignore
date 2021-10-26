@@ -1,0 +1,7 @@
+*
+!public/
+!images/
+!avatars/
+!icons/
+!logos/
+!.gitignore
